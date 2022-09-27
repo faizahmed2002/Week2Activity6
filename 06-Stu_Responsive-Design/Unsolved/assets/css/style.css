@@ -32,7 +32,7 @@ nav a {
 
 /* 
 What is the flex-wrap property? 
-TODO: Write your answer here 
+TODO: The banner bends when the screen gets smaller
 */
 main {
   display: flex;
